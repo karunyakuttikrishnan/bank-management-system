@@ -16,9 +16,9 @@ Deletion of an account<br />
 Modify an account<br />
 
 # Modules imported:
-Pickle
-Os
-random
+Pickle<br />
+Os<br />
+random<br />
 
 # Requirements: 
 Pycharm

@@ -1,4 +1,4 @@
-# bank-management-system
+# Bank-management-system
 
 Demo video :
 

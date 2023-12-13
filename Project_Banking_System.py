@@ -53,7 +53,7 @@ def getdetails(name,ac_no):
                 found=0
                 continue
         if found==0:
-            print("Invalid username or password")
+            print("Invalid username or account number")
 
 
 #CHOICE 3
@@ -102,7 +102,7 @@ def WithdrawAmount(name,ac_no):
                 found=0
                 continue
         if found==0:
-            print("Invalid username or password")
+            print("Invalid username or account number")
     outfile = open("newaccounts.data", "wb")
     pickle.dump(data, outfile)
     outfile.close()
@@ -123,7 +123,7 @@ def getbalance(name,ac_no):
                 found=0
                 continue
         if found==0:
-            print("Invalid username and password")
+            print("Invalid username and account number")
 
 #CHOICE 6
 def getalldetails():

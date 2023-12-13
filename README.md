@@ -15,12 +15,14 @@ Fetching all the user records<br />
 Deletion of an account<br />
 Modify an account<br />
 
+Each module is explained in detail in the demo video
+
 # Modules imported:
 Pickle<br />
 Os<br />
 random<br />
 
 # Requirements: 
-Pycharm
+Python
 
 
